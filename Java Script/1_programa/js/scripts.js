@@ -1,0 +1,1 @@
+console.log("Este Script foi importado no head");
